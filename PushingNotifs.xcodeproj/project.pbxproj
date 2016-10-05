@@ -351,6 +351,7 @@
 				CODE_SIGN_ENTITLEMENTS = PushingNotifs/PushingNotifs.entitlements;
 				DEVELOPMENT_TEAM = WN5533YL4C;
 				INFOPLIST_FILE = PushingNotifs/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.smbss.PushingNotifs;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -366,6 +367,7 @@
 				CODE_SIGN_ENTITLEMENTS = PushingNotifs/PushingNotifs.entitlements;
 				DEVELOPMENT_TEAM = WN5533YL4C;
 				INFOPLIST_FILE = PushingNotifs/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.smbss.PushingNotifs;
 				PRODUCT_NAME = "$(TARGET_NAME)";
